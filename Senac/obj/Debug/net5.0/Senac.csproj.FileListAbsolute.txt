@@ -1,0 +1,12 @@
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\Senac.deps.json
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\Senac.dll
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\ref\Senac.dll
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\bin\Debug\net5.0\Senac.pdb
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.csproj.AssemblyReference.cache
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.AssemblyInfoInputs.cache
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.AssemblyInfo.cs
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.csproj.CoreCompileInputs.cache
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.dll
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\ref\Senac.dll
+C:\Users\lucas.souza3\Desktop\Sistema-De-Login\Senac\obj\Debug\net5.0\Senac.pdb
